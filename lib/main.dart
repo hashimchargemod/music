@@ -24,7 +24,7 @@ class _MyAppState extends ConsumerState<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'chargeMOD',
+      title: 'Music',
       // theme: ref.watch(themeNotifierProvider),
       navigatorKey: NavigationService.navigatorKey,
       initialRoute: '/SplashScreenPage',
